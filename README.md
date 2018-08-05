@@ -1,6 +1,6 @@
 # Rails::API
 
-[![Build Status](https://secure.travis-ci.org/rails-api/rails-api.png?branch=master)](http://travis-ci.org/rails-api/rails-api)
+[![Build Status](https://secure.travis-ci.org/rails-api/rails-api.png?branch=master)](http://travis-ci.org/rails-api/rails-api) [![GuardRails badge](https://badges.production.guardrails.io/shtakai/rails-api.svg)](https://www.guardrails.io)
 
 **IMPORTANT**: [Rails::API has been merged into Rails](https://github.com/rails/rails/pull/19832)
 
